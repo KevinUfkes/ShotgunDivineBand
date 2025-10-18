@@ -20,7 +20,7 @@ export default function DashboardLayout({
                     <Link href="/photo_gallery">Photo Gallery</Link>
                 </button>
                 <button>
-                    <Link href="/bio">Bio</Link>
+                    <Link href="/bio">Bios</Link>
                 </button>
             </nav>
             {children}
