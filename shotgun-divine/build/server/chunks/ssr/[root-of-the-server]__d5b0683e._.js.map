@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/src/app/bio/page.tsx"],"sourcesContent":["export default function Bio() {\r\n  return <h1>Shotgun Divine - Bio</h1>\r\n}"],"names":[],"mappings":"kRAAe,SAAS,IACtB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,KAAA,UAAG,wBACb"}
