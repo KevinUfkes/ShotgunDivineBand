@@ -1,3 +1,0 @@
-module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},62212,a=>{a.n(a.i(66114))},78764,(a,b,c)=>{},9488,a=>{"use strict";a.s(["default",()=>c]);var b=a.i(7997);function c(){return(0,b.jsx)("h1",{children:"Shotgun Divine - Dashboard"})}}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__1b78eb38._.js.map

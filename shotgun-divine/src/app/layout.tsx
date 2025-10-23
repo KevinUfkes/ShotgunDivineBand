@@ -14,7 +14,7 @@ export default function DashboardLayout({
             <nav>
                 {/* Prefetched when the link is hovered or enters the viewport */}
                 <button>
-                    <Link href="/home">Home</Link>
+                    <Link href="/">Home</Link>
                 </button>
                 <button>
                     <Link href="/photo_gallery">Photo Gallery</Link>
