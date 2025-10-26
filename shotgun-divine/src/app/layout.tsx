@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Image from 'next/image';
 import rainbowStain from '../../public/images/rainbow_stain.jpg'
 
-import { Button, Container, Row, Col, Card, CardBody } from "react-bootstrap";
+import { Container, Card, CardBody } from "react-bootstrap";
 
 export default function DashboardLayout({
   children,

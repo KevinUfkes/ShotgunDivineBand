@@ -30,7 +30,7 @@ export default function Bio() {
                 style={{ zIndex: -1 }} // Puts the image behind other content
               />
             </CardText>
-            <CardText>"I'm not very good though!" -</CardText>
+            <CardText>Im not very good though!</CardText>
           </CardBody>
         </Card>
       </div>
@@ -52,7 +52,7 @@ export default function Bio() {
                 style={{ zIndex: -1 }} // Puts the image behind other content
               />
             </CardText>
-            <CardText>"I'm not very good though!" -</CardText>
+            <CardText>Im not very good though!</CardText>
           </CardBody>
         </Card>
       </div>
@@ -74,7 +74,7 @@ export default function Bio() {
                 style={{ zIndex: -1 }} // Puts the image behind other content
               />
             </CardText>
-            <CardText>"You're not very good though!" - Jesse Carter</CardText>
+            <CardText>Youre not very good though! - Jesse Carter</CardText>
           </CardBody>
         </Card>
       </div>
@@ -96,7 +96,7 @@ export default function Bio() {
                 style={{ zIndex: -1 }} // Puts the image behind other content
               />
             </CardText>
-            <CardText>"Best kit ever!" - Jesse Carter</CardText>
+            <CardText>Best kit ever! - Jesse Carter</CardText>
           </CardBody>
         </Card>
       </div>
@@ -118,7 +118,7 @@ export default function Bio() {
                 style={{ zIndex: -1 }} // Puts the image behind other content
               />
             </CardText>
-            <CardText>"You're not very good either!" - to Jesse Carter</CardText>
+            <CardText>Youre not very good either! - to Jesse Carter</CardText>
           </CardBody>
         </Card>
       </div>

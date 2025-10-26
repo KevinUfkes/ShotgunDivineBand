@@ -1,4 +1,4 @@
-import { Button, Container, Row, Col, Card, CardTitle, CardText } from "react-bootstrap";
+import { CardTitle, CardText } from "react-bootstrap";
 
 
 export default function Dashboard() {
@@ -11,21 +11,21 @@ export default function Dashboard() {
         <CardTitle>First</CardTitle>
         <CardText>
           Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+          bulk of the cards content.
         </CardText>
       </div>
       <div className="col-start-2 col-span-2 row-start-2 row-span-2">
         <CardTitle>Second</CardTitle>
         <CardText>
           Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+          bulk of the cards content.
         </CardText>
       </div>
       <div className="col-start-2 col-span-2 row-start-4 row-span-3">
         <CardTitle>Third</CardTitle>
         <CardText>
           Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+          bulk of the cards content.
         </CardText>
       </div>
     </div>
